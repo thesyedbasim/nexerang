@@ -13,10 +13,10 @@ const Contact = () => {
 		title: 'Contact a Website & UI/UX Designer Freelancer | Syed Basim',
 		description:
 			'If you want grow your online presence with a great and reliable webiste, you can contact me and I would help you increase your sales and your business.',
-		url: 'https://www.syedbasim.com/contact',
-		canonical: 'https://www.syedbasim.com/contact',
+		url: 'https://www.nexerang.com/contact',
+		canonical: 'https://www.nexerang.com/contact',
 		openGraph: {
-			url: 'https://www.syedbasim.com/contact'
+			url: 'https://www.nexerang.com/contact'
 		}
 	});
 

@@ -12,10 +12,10 @@ export default function Home() {
 		title: 'Get Cheap and Reliable Websites to Grow Online',
 		description:
 			'Cheaply enhance and grow your online presence by increasing conversion rates and high SEO. You get fast, functional and beautiful websites to help you with that.',
-		url: 'https://nexerang.com',
-		canonical: 'https://nexerang.com',
+		url: 'https://www.nexerang.com',
+		canonical: 'https://www.nexerang.com',
 		openGraph: {
-			url: 'https://nexerang.com'
+			url: 'https://www.nexerang.com'
 		}
 	});
 
