@@ -2,6 +2,7 @@ import {
 	Copy,
 	CopyBody,
 	CopyHeader,
+	CopyTextItem,
 	CopyTitle
 } from '../../components/base/Copy';
 import { SectionCopyHeader } from '../../types/CopyTypes';
@@ -20,6 +21,7 @@ const ContactText: React.FC<ContactTextProps> = ({ title, body, contact }) => {
 					<CopyTitle text={title} />
 				</CopyHeader>
 				<CopyBody text={body} />
+				<CopyTextItem text={contact[0].text} />
 			</Copy>
 		</RowLayout>
 	);

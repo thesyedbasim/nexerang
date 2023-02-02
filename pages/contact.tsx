@@ -26,7 +26,7 @@ const Contact = () => {
 
 	const contactSection: MutableRefObject<ContactTextProps> = useRef({
 		title: 'Contact',
-		body: "If you're interested to do business with us and would like to grow your online presence, you can fill up the form and we will be ready to carefully arrange the quote according to your needs.",
+		body: "If you're interested to do business with us and would like to grow your online presence, you can fill up the form and we will be ready to carefully arrange the quote according to your needs. Or, you can email us regarding the project.",
 		contact: [
 			{
 				text: 'business@nexerang.com'
